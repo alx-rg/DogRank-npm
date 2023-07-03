@@ -15,11 +15,17 @@ function queryDogBreed(breed, callback) {
         return;
       }
 
-      const dog = dogs.find((dog) => dog.Breed === breed);
+      // use filter to get all the Spaniels
+      const spaniels = dogs.filter((dog) => dog.Breed.includes(breed));
 
-      if (dog) {
+      if (spaniels.length > 0) {
+        // create a string with all the Spaniels and their ranks
+        let result = `Here are all the ${breed}s:\n`;
+        for (let spaniel of spaniels) {
+          result += `${spaniel.Breed} is ranked ${spaniel.Rank}.\n`;
+        }
         // call the callback function with the result
-        callback(`${dog.Breed} is ranked ${dog.Rank}.`);
+        callback(result);
       } else {
         // call the callback function with an error message
         callback('Dog breed not found.');
@@ -31,7 +37,8 @@ function queryDogBreed(breed, callback) {
 }
 
 
-queryDogBreed('Spaniels', (result) => {
+
+queryDogBreed('spaniels', (result) => {
   console.log(result);
 });
 
