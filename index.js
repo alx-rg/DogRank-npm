@@ -15,19 +15,22 @@ function queryDogBreed(breed, callback) {
         return;
       }
 
-      // use filter to get all the Spaniels
-      const spaniels = dogs.filter((dog) => dog.Breed.includes(breed));
+      // input to lower case
+      const lowerBreed = breed.toLowerCase();
+
+      // use filter to get all search
+      const spaniels = dogs.filter((dog) => dog.Breed.toLowerCase().includes(lowerBreed));
 
       if (spaniels.length > 0) {
-        // create a string with all the Spaniels and their ranks
-        let result = `Here are all the ${breed}s:\n`;
+        // create a string with all dogs and their ranks
+        let result = `Here is your search for ${breed}:\n`;
         for (let spaniel of spaniels) {
           result += `${spaniel.Breed} is ranked ${spaniel.Rank}.\n`;
         }
-        // call the callback function with the result
+        // callback function with result
         callback(result);
       } else {
-        // call the callback function with an error message
+        // callback function with error message
         callback('Dog breed not found.');
       }
     } catch (error) {
@@ -36,9 +39,17 @@ function queryDogBreed(breed, callback) {
   });
 }
 
+// Test queries
+// queryDogBreed('pood', (result) => {
+//   console.log(result);
+// });
+// queryDogBreed('alas', (result) => {
+//   console.log(result);
+// });
+// queryDogBreed('spani', (result) => {
+//   console.log(result);
+// });
 
-
-queryDogBreed('spaniels', (result) => {
-  console.log(result);
-});
-
+module.exports = {
+  queryDogBreed
+};
