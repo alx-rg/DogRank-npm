@@ -22,13 +22,13 @@ npm install dog-ranking
 
 Require the dog breed module into your file:
 
-```json
+```bash
 const dog = require('queryDogBreed')
 ```
 
 Then utilize the `queryDogBreed` function provided by the module:
 
-```json
+```bash
  // Looking for Poodle?
  queryDogBreed('pood', (result) => {
    console.log(result);
@@ -48,7 +48,7 @@ Then utilize the `queryDogBreed` function provided by the module:
 
 Expected Output:
 
-```json
+```bash
 Here is your search for pood:
 Poodles is ranked 7.
 
