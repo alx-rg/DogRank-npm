@@ -1,0 +1,16 @@
+{
+  "name": "dog-ranking",
+  "version": "1.0.0",
+  "description": "Takes a dog breed and returns their ranking(2016 AKC DataSet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dog",
+    "ranking",
+    "breed"
+  ],
+  "author": "Alex Ross",
+  "license": "ISC"
+}

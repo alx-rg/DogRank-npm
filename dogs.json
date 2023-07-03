@@ -1,0 +1,804 @@
+{
+  "data": [
+    {
+      "Breed": "Retrievers (Labrador)",
+      "Rank": 1
+    },
+    {
+      "Breed": "German Shepherd Dogs",
+      "Rank": 2
+    },
+    {
+      "Breed": "Retrievers (Golden)",
+      "Rank": 3
+    },
+    {
+      "Breed": "Bulldogs",
+      "Rank": 4
+    },
+    {
+      "Breed": "Beagles",
+      "Rank": 5
+    },
+    {
+      "Breed": "French Bulldogs",
+      "Rank": 6
+    },
+    {
+      "Breed": "Poodles",
+      "Rank": 7
+    },
+    {
+      "Breed": "Rottweilers",
+      "Rank": 8
+    },
+    {
+      "Breed": "Yorkshire Terriers",
+      "Rank": 9
+    },
+    {
+      "Breed": "Boxers",
+      "Rank": 10
+    },
+    {
+      "Breed": "Pointers (German Shorthaired)",
+      "Rank": 11
+    },
+    {
+      "Breed": "Siberian Huskies",
+      "Rank": 12
+    },
+    {
+      "Breed": "Dachshunds",
+      "Rank": 13
+    },
+    {
+      "Breed": "Great Danes",
+      "Rank": 14
+    },
+    {
+      "Breed": "Doberman Pinschers",
+      "Rank": 15
+    },
+    {
+      "Breed": "Australian Shepherds",
+      "Rank": 16
+    },
+    {
+      "Breed": "Miniature Schnauzers",
+      "Rank": 17
+    },
+    {
+      "Breed": "Pembroke Welsh Corgis",
+      "Rank": 18
+    },
+    {
+      "Breed": "Cavalier King Charles Spaniels",
+      "Rank": 19
+    },
+    {
+      "Breed": "Shih Tzu",
+      "Rank": 20
+    },
+    {
+      "Breed": "Boston Terriers",
+      "Rank": 21
+    },
+    {
+      "Breed": "Pomeranians",
+      "Rank": 22
+    },
+    {
+      "Breed": "Havanese",
+      "Rank": 23
+    },
+    {
+      "Breed": "Shetland Sheepdogs",
+      "Rank": 24
+    },
+    {
+      "Breed": "Brittanys",
+      "Rank": 25
+    },
+    {
+      "Breed": "Spaniels (English Springer)",
+      "Rank": 26
+    },
+    {
+      "Breed": "Bernese Mountain Dogs",
+      "Rank": 27
+    },
+    {
+      "Breed": "Mastiffs",
+      "Rank": 28
+    },
+    {
+      "Breed": "Spaniels (Cocker)",
+      "Rank": 29
+    },
+    {
+      "Breed": "Chihuahuas",
+      "Rank": 30
+    },
+    {
+      "Breed": "Vizslas",
+      "Rank": 31
+    },
+    {
+      "Breed": "Pugs",
+      "Rank": 32
+    },
+    {
+      "Breed": "Maltese",
+      "Rank": 33
+    },
+    {
+      "Breed": "Weimaraners",
+      "Rank": 34
+    },
+    {
+      "Breed": "Newfoundlands",
+      "Rank": 35
+    },
+    {
+      "Breed": "Miniature American Shepherds",
+      "Rank": 36
+    },
+    {
+      "Breed": "Collies",
+      "Rank": 37
+    },
+    {
+      "Breed": "Border Collies",
+      "Rank": 38
+    },
+    {
+      "Breed": "Basset Hounds",
+      "Rank": 39
+    },
+    {
+      "Breed": "Cane Corso",
+      "Rank": 40
+    },
+    {
+      "Breed": "West Highland White Terriers",
+      "Rank": 41
+    },
+    {
+      "Breed": "Rhodesian Ridgebacks",
+      "Rank": 42
+    },
+    {
+      "Breed": "Retrievers (Chesapeake Bay)",
+      "Rank": 43
+    },
+    {
+      "Breed": "Shiba Inu",
+      "Rank": 44
+    },
+    {
+      "Breed": "Bichons Frises",
+      "Rank": 45
+    },
+    {
+      "Breed": "Akitas",
+      "Rank": 46
+    },
+    {
+      "Breed": "Belgian Malinois",
+      "Rank": 47
+    },
+    {
+      "Breed": "Bullmastiffs",
+      "Rank": 48
+    },
+    {
+      "Breed": "St. Bernards",
+      "Rank": 49
+    },
+    {
+      "Breed": "Soft Coated Wheaten Terriers",
+      "Rank": 50
+    },
+    {
+      "Breed": "Portuguese Water Dogs",
+      "Rank": 51
+    },
+    {
+      "Breed": "Bloodhounds",
+      "Rank": 52
+    },
+    {
+      "Breed": "Papillons",
+      "Rank": 53
+    },
+    {
+      "Breed": "Australian Cattle Dogs",
+      "Rank": 54
+    },
+    {
+      "Breed": "Airedale Terriers",
+      "Rank": 55
+    },
+    {
+      "Breed": "Spaniels (English Cocker)",
+      "Rank": 56
+    },
+    {
+      "Breed": "Bull Terriers",
+      "Rank": 57
+    },
+    {
+      "Breed": "Scottish Terriers",
+      "Rank": 58
+    },
+    {
+      "Breed": "Alaskan Malamutes",
+      "Rank": 59
+    },
+    {
+      "Breed": "Whippets",
+      "Rank": 60
+    },
+    {
+      "Breed": "Chinese Shar-Pei",
+      "Rank": 61
+    },
+    {
+      "Breed": "Dalmatians",
+      "Rank": 62
+    },
+    {
+      "Breed": "Dogues de Bordeaux",
+      "Rank": 63
+    },
+    {
+      "Breed": "Pointers (German Wirehaired)",
+      "Rank": 64
+    },
+    {
+      "Breed": "Samoyeds",
+      "Rank": 65
+    },
+    {
+      "Breed": "Wirehaired Pointing Griffons",
+      "Rank": 66
+    },
+    {
+      "Breed": "Great Pyrenees",
+      "Rank": 67
+    },
+    {
+      "Breed": "Miniature Pinschers",
+      "Rank": 68
+    },
+    {
+      "Breed": "Cardigan Welsh Corgis",
+      "Rank": 69
+    },
+    {
+      "Breed": "Cairn Terriers",
+      "Rank": 70
+    },
+    {
+      "Breed": "Lhasa Apsos",
+      "Rank": 71
+    },
+    {
+      "Breed": "Italian Greyhounds",
+      "Rank": 72
+    },
+    {
+      "Breed": "Irish Wolfhounds",
+      "Rank": 73
+    },
+    {
+      "Breed": "Chow Chows",
+      "Rank": 74
+    },
+    {
+      "Breed": "Old English Sheepdogs",
+      "Rank": 75
+    },
+    {
+      "Breed": "Setters (Irish)",
+      "Rank": 76
+    },
+    {
+      "Breed": "Chinese Crested",
+      "Rank": 77
+    },
+    {
+      "Breed": "Greater Swiss Mountain Dogs",
+      "Rank": 78
+    },
+    {
+      "Breed": "Giant Schnauzers",
+      "Rank": 79
+    },
+    {
+      "Breed": "Coton de Tulear",
+      "Rank": 80
+    },
+    {
+      "Breed": "American Staffordshire Terriers",
+      "Rank": 81
+    },
+    {
+      "Breed": "Staffordshire Bull Terriers",
+      "Rank": 82
+    },
+    {
+      "Breed": "Bouviers des Flandres",
+      "Rank": 83
+    },
+    {
+      "Breed": "Anatolian Shepherd Dogs",
+      "Rank": 84
+    },
+    {
+      "Breed": "Standard Schnauzers",
+      "Rank": 85
+    },
+    {
+      "Breed": "Border Terriers",
+      "Rank": 86
+    },
+    {
+      "Breed": "Retrievers (Nova Scotia Duck Tolling)",
+      "Rank": 87
+    },
+    {
+      "Breed": "Basenjis",
+      "Rank": 88
+    },
+    {
+      "Breed": "Retrievers (Flat-Coated)",
+      "Rank": 89
+    },
+    {
+      "Breed": "Russell Terriers",
+      "Rank": 90
+    },
+    {
+      "Breed": "Tibetan Terriers",
+      "Rank": 91
+    },
+    {
+      "Breed": "Keeshonden",
+      "Rank": 92
+    },
+    {
+      "Breed": "Pekingese",
+      "Rank": 93
+    },
+    {
+      "Breed": "Norwegian Elkhounds",
+      "Rank": 94
+    },
+    {
+      "Breed": "Leonbergers",
+      "Rank": 95
+    },
+    {
+      "Breed": "Rat Terriers",
+      "Rank": 96
+    },
+    {
+      "Breed": "Brussels Griffons",
+      "Rank": 97
+    },
+    {
+      "Breed": "Borzois",
+      "Rank": 98
+    },
+    {
+      "Breed": "Neapolitan Mastiffs",
+      "Rank": 99
+    },
+    {
+      "Breed": "Silky Terriers",
+      "Rank": 100
+    },
+    {
+      "Breed": "Fox Terriers (Wire)",
+      "Rank": 101
+    },
+    {
+      "Breed": "Setters (English)",
+      "Rank": 102
+    },
+    {
+      "Breed": "Norwich Terriers",
+      "Rank": 103
+    },
+    {
+      "Breed": "Setters (Gordon)",
+      "Rank": 104
+    },
+    {
+      "Breed": "Spinoni Italiani",
+      "Rank": 105
+    },
+    {
+      "Breed": "American Hairless Terriers",
+      "Rank": 106
+    },
+    {
+      "Breed": "Belgian Tervuren",
+      "Rank": 107
+    },
+    {
+      "Breed": "Japanese Chin",
+      "Rank": 108
+    },
+    {
+      "Breed": "Parson Russell Terriers",
+      "Rank": 109
+    },
+    {
+      "Breed": "Spaniels (Boykin)",
+      "Rank": 110
+    },
+    {
+      "Breed": "Welsh Terriers",
+      "Rank": 111
+    },
+    {
+      "Breed": "Schipperkes",
+      "Rank": 112
+    },
+    {
+      "Breed": "Afghan Hounds",
+      "Rank": 113
+    },
+    {
+      "Breed": "Lagotti Romagnoli",
+      "Rank": 114
+    },
+    {
+      "Breed": "Irish Terriers",
+      "Rank": 115
+    },
+    {
+      "Breed": "Toy Fox Terriers",
+      "Rank": 116
+    },
+    {
+      "Breed": "Pointers",
+      "Rank": 117
+    },
+    {
+      "Breed": "Tibetan Spaniels",
+      "Rank": 118
+    },
+    {
+      "Breed": "Black Russian Terriers",
+      "Rank": 119
+    },
+    {
+      "Breed": "Miniature Bull Terriers",
+      "Rank": 120
+    },
+    {
+      "Breed": "Bluetick Coonhounds",
+      "Rank": 121
+    },
+    {
+      "Breed": "American Eskimo Dogs",
+      "Rank": 122
+    },
+    {
+      "Breed": "Spaniels (Welsh Springer)",
+      "Rank": 123
+    },
+    {
+      "Breed": "Fox Terriers (Smooth)",
+      "Rank": 124
+    },
+    {
+      "Breed": "Salukis",
+      "Rank": 125
+    },
+    {
+      "Breed": "Bearded Collies",
+      "Rank": 126
+    },
+    {
+      "Breed": "Kerry Blue Terriers",
+      "Rank": 127
+    },
+    {
+      "Breed": "Black and Tan Coonhounds",
+      "Rank": 128
+    },
+    {
+      "Breed": "Belgian Sheepdogs",
+      "Rank": 129
+    },
+    {
+      "Breed": "English Toy Spaniels",
+      "Rank": 130
+    },
+    {
+      "Breed": "Boerboels",
+      "Rank": 131
+    },
+    {
+      "Breed": "Briards",
+      "Rank": 132
+    },
+    {
+      "Breed": "Manchester Terriers",
+      "Rank": 133
+    },
+    {
+      "Breed": "Norfolk Terriers",
+      "Rank": 134
+    },
+    {
+      "Breed": "Tibetan Mastiffs",
+      "Rank": 135
+    },
+    {
+      "Breed": "Australian Terriers",
+      "Rank": 136
+    },
+    {
+      "Breed": "Pharaoh Hounds",
+      "Rank": 137
+    },
+    {
+      "Breed": "Bedlington Terriers",
+      "Rank": 138
+    },
+    {
+      "Breed": "Polish Lowland Sheepdogs",
+      "Rank": 139
+    },
+    {
+      "Breed": "Spaniels (Clumber)",
+      "Rank": 140
+    },
+    {
+      "Breed": "Spaniels (Field)",
+      "Rank": 141
+    },
+    {
+      "Breed": "Lowchen",
+      "Rank": 142
+    },
+    {
+      "Breed": "Komondorok",
+      "Rank": 143
+    },
+    {
+      "Breed": "Spaniels (Sussex)",
+      "Rank": 144
+    },
+    {
+      "Breed": "Plotts",
+      "Rank": 145
+    },
+    {
+      "Breed": "Ibizan Hounds",
+      "Rank": 146
+    },
+    {
+      "Breed": "Wirehaired Vizslas",
+      "Rank": 147
+    },
+    {
+      "Breed": "Setters (Irish Red and White)",
+      "Rank": 148
+    },
+    {
+      "Breed": "Polish Tatra Sheepdogs",
+      "Rank": 149
+    },
+    {
+      "Breed": "Dandie Dinmont Terriers",
+      "Rank": 150
+    },
+    {
+      "Breed": "Harriers",
+      "Rank": 151
+    },
+    {
+      "Breed": "Glen of Imaal Terriers",
+      "Rank": 152
+    },
+    {
+      "Breed": "Retrievers (Curly-Coated)",
+      "Rank": 153
+    },
+    {
+      "Breed": "Sealyham Terriers",
+      "Rank": 154
+    },
+    {
+      "Breed": "Finnish Lapphunds",
+      "Rank": 155
+    },
+    {
+      "Breed": "Canaan Dogs",
+      "Rank": 156
+    },
+    {
+      "Breed": "Sloughis",
+      "Rank": 157
+    },
+    {
+      "Breed": "American Water Spaniels",
+      "Rank": 158
+    },
+    {
+      "Breed": "Pulik",
+      "Rank": 159
+    },
+    {
+      "Breed": "Spaniels (American Water)",
+      "Rank": 160
+    },
+    {
+      "Breed": "Pyrenean Shepherds",
+      "Rank": 161
+    },
+    {
+      "Breed": "Otterhounds",
+      "Rank": 162
+    },
+    {
+      "Breed": "Spaniels (Irish Water)",
+      "Rank": 163
+    },
+    {
+      "Breed": "Kuvaszok",
+      "Rank": 164
+    },
+    {
+      "Breed": "Lancashire Heelers",
+      "Rank": 165
+    },
+    {
+      "Breed": "Norwegian Buhunds",
+      "Rank": 166
+    },
+    {
+      "Breed": "Swedish Vallhunds",
+      "Rank": 167
+    },
+    {
+      "Breed": "Foxhounds (American)",
+      "Rank": 168
+    },
+    {
+      "Breed": "Cesky Terriers",
+      "Rank": 169
+    },
+    {
+      "Breed": "Peruvian Inca Orchids",
+      "Rank": 170
+    },
+    {
+      "Breed": "Finnish Spitz",
+      "Rank": 171
+    },
+    {
+      "Breed": "Cirnechi dell'Etna",
+      "Rank": 172
+    },
+    {
+      "Breed": "Drentse Patrijshonds",
+      "Rank": 173
+    },
+    {
+      "Breed": "English Foxhounds",
+      "Rank": 174
+    },
+    {
+      "Breed": "Hovawarts",
+      "Rank": 175
+    },
+    {
+      "Breed": "Dalmatians",
+      "Rank": 176
+    },
+    {
+      "Breed": "Swedish Lapphunds",
+      "Rank": 177
+    },
+    {
+      "Breed": "Icelandic Sheepdogs",
+      "Rank": 178
+    },
+    {
+      "Breed": "Spaniels (Welsh Corgi)",
+      "Rank": 179
+    },
+    {
+      "Breed": "German Pinschers",
+      "Rank": 180
+    },
+    {
+      "Breed": "Norfolk Terriers",
+      "Rank": 181
+    },
+    {
+      "Breed": "Entlebucher Mountain Dogs",
+      "Rank": 182
+    },
+    {
+      "Breed": "Pharaoh Hounds",
+      "Rank": 183
+    },
+    {
+      "Breed": "Norwegian Lundehunds",
+      "Rank": 184
+    },
+    {
+      "Breed": "American Foxhounds",
+      "Rank": 185
+    },
+    {
+      "Breed": "Icelandic Sheepdogs",
+      "Rank": 186
+    },
+    {
+      "Breed": "Norwegian Buhunds",
+      "Rank": 187
+    },
+    {
+      "Breed": "Portuguese Podengo Pequenos",
+      "Rank": 188
+    },
+    {
+      "Breed": "Cirnechi dell'Etna",
+      "Rank": 189
+    },
+    {
+      "Breed": "Finnish Lapphunds",
+      "Rank": 190
+    },
+    {
+      "Breed": "Hamiltonstovare",
+      "Rank": 191
+    },
+    {
+      "Breed": "Norwegian Lundehunds",
+      "Rank": 192
+    },
+    {
+      "Breed": "Prazsky Krysarik",
+      "Rank": 193
+    },
+    {
+      "Breed": "Karelian Bear Dogs",
+      "Rank": 194
+    },
+    {
+      "Breed": "Lagotto Romagnolos",
+      "Rank": 195
+    },
+    {
+      "Breed": "Jindos",
+      "Rank": 196
+    },
+    {
+      "Breed": "New Guinea Singing Dogs",
+      "Rank": 197
+    },
+    {
+      "Breed": "Dogo Argentinos",
+      "Rank": 198
+    },
+    {
+      "Breed": "Peruvian Inca Orchids",
+      "Rank": 199
+    },
+    {
+      "Breed": "Dutch Shepherd Dogs",
+      "Rank": 200
+    }
+  ]
+}
